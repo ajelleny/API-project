@@ -5,7 +5,6 @@ body {
 h1 {
     color: #636235;
     font-family: 'Montserrat', sans-serif;
-    /* text-align: center */
 }
 
 .giphyImage {
@@ -19,19 +18,12 @@ h1 {
 #button {
     padding: 5px;
     font-family: 'Montserrat', sans-serif;
-    /* display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30% */
+    
 }
 
 #search {
     padding: 10px;
     font-family: 'Montserrat', sans-serif;
-    /* display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    width: 15% */
+    
 }
 
