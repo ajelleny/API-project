@@ -9,9 +9,7 @@ JavaScript, CSS, HTML, Giphy API
 No special instructions needed, simply enter your search keyword to see a gif!
  
 **User Stories:**
-As a user I want to search for gifs by entering a keyword and get back a gif related to that keyword. 
-
-As a user I want to be able to enter a new keyword in the input field and get gifs related to that keyword.
+As a user I want to search for gifs by entering a keyword and get back a gif related to that keyword. As a user I want to be able to enter a new keyword in the input field and get gifs related to that keyword.
 
 **Wireframe:**
 ![screenshot](https://i.imgur.com/vyDjWjt.jpg)
